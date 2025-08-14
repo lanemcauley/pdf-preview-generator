@@ -1,2 +1,2 @@
-# pdf_preview_generator
+# pdf-preview-generator
 A script to generate a preview and thumbnail image for pdf files, specifically pdf service manauls.
